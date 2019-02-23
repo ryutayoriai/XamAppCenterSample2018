@@ -34,6 +34,7 @@ echo "          Text to replace:" $stringToFind
 echo "##################################################################################################"
 echo ""
 
+
 # Check if file exists first
 if [ -e $filename ]; then
     echo "Target file found"
