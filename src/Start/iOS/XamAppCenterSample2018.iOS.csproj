@@ -121,6 +121,7 @@
     <Compile Include="AppDelegate.cs" />
     <Compile Include="Presenters\ExPresenter.cs" />
     <Compile Include="LinkerPleaseInclude.cs" />
+    <Compile Include="Views\MainView.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
